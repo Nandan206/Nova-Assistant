@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="137cb615-6600-4b8e-a3ca-afe8b38dcc8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Nova.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="137cb615-6600-4b8e-a3ca-afe8b38dcc8b" name="Changes" comment="First phase of Nova AI Assistant" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,15 +52,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745990398777</updated>
-      <workItem from="1745990399654" duration="16563000" />
+      <workItem from="1745990399654" duration="17157000" />
     </task>
+    <task id="LOCAL-00001" summary="First phase of Nova AI Assistant">
+      <option name="closed" value="true" />
+      <created>1746038192935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746038192935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First phase of Nova AI Assistant" />
+    <option name="LAST_COMMIT_MESSAGE" value="First phase of Nova AI Assistant" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Nova$main.coverage" NAME="main Coverage Results" MODIFIED="1745992038655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/Nova$Nova_assistant.coverage" NAME="Nova_assistant Coverage Results" MODIFIED="1746037605467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Nova$Nova_assistant.coverage" NAME="Nova_assistant Coverage Results" MODIFIED="1746037849136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
